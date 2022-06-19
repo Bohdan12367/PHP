@@ -8,7 +8,7 @@ $result = mysqli_query($link ,"SELECT * FROM conference");
 <html>
     <head>
         <meta charset = "utf8">
-        <title>eeeee</title>
+        <title>Detail Conference</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
